@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on A radiologist&#39;s note</title>
+    <link>https://dwsnchn.github.io/categories/</link>
+    <description>Recent content in Categories on A radiologist&#39;s note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 30 Jan 2021 21:00:00 +0800</lastBuildDate><atom:link href="https://dwsnchn.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Head and neck</title>
+      <link>https://dwsnchn.github.io/categories/head-and-neck/</link>
+      <pubDate>Sat, 30 Jan 2021 21:00:00 +0800</pubDate>
+      
+      <guid>https://dwsnchn.github.io/categories/head-and-neck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go Language</title>
+      <link>https://dwsnchn.github.io/categories/go-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://dwsnchn.github.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Head and neck on A radiologist&#39;s note</title>
+    <link>https://dwsnchn.github.io/categories/head-and-neck/</link>
+    <description>Recent content in Head and neck on A radiologist&#39;s note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 30 Jan 2021 21:00:00 +0800</lastBuildDate><atom:link href="https://dwsnchn.github.io/categories/head-and-neck/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first blog</title>
+      <link>https://dwsnchn.github.io/blog/test/</link>
+      <pubDate>Sat, 30 Jan 2021 21:00:00 +0800</pubDate>
+      
+      <guid>https://dwsnchn.github.io/blog/test/</guid>
+      <description>Hello world
+Hello again
+Title toto small aaa_for big rive</description>
+    </item>
+    
+  </channel>
+</rss>
